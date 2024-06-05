@@ -1,4 +1,4 @@
 *Seja Bem Vindo*
 
--  Sou professora de Matemática
+-  Prestem atenção na aula de hoje!
 -  [Aula 1](https://www.youtube.com/watch?v=RKegZ1TiO28)
